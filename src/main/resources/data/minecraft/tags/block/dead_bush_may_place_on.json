@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "ghostsafio:carne_blanda",
+    "ghostsafio:carne_rosa",
+    "ghostsafio:carne_oscura",
+    "ghostsafio:tejido_palido",
+    "ghostsafio:carne_venosa",
+    "ghostsafio:carne_podrida"
+  ]
+}

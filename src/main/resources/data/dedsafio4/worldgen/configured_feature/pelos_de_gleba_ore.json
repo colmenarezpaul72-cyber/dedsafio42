@@ -1,0 +1,54 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "discard_chance_on_air_exposure": 0.0,
+    "size": 6,
+    "targets": [
+      {
+        "state": {
+          "Name": "dedsafio4:pelos_de_gleba"
+        },
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "ghostsafio:bloque_gleba"
+        }
+      },
+      {
+        "state": {
+          "Name": "dedsafio4:pelos_de_gleba"
+        },
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "ghostsafio:carne_rosa"
+        }
+      },
+      {
+        "state": {
+          "Name": "dedsafio4:pelos_de_gleba"
+        },
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "ghostsafio:carne_blanda"
+        }
+      },
+      {
+        "state": {
+          "Name": "dedsafio4:pelos_de_gleba"
+        },
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "ghostsafio:carne_oscura"
+        }
+      },
+      {
+        "state": {
+          "Name": "dedsafio4:pelos_de_gleba"
+        },
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "ghostsafio:tejido_palido"
+        }
+      }
+    ]
+  }
+}

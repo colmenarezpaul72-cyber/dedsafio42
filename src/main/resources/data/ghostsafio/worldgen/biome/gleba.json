@@ -1,0 +1,42 @@
+{
+  "has_precipitation": false,
+  "temperature": 0.8,
+  "downfall": 0.0,
+  "effects": {
+    "sky_color": 8103167,
+    "fog_color": 12638463,
+    "water_color": 14398365,
+    "water_fog_color": 14398365
+  },
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "spawn_costs": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "dedsafio4:pelos_de_gleba_ore",
+      "dedsafio4:garra_gleba_ore"
+    ],
+    [],
+    [],
+    [
+      "dedsafio4:arboles_gleba_extra",
+      "dedsafio4:arbustos_muertos"
+    ],
+    []
+  ],
+  "carvers": {}
+}
